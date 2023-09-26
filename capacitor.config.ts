@@ -1,11 +1,12 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'edu.mtec.njpedigo.myNewIonicApp',
   appName: 'myNewApp',
   webDir: 'www',
   server: {
-    androidScheme: 'https'
+    androidScheme: 'https',
+    url: 'http://localhost:8100'
   }
 };
 

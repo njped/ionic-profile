@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">myNewApp</string>
+    <string name="title_activity_main">myNewApp</string>
+    <string name="package_name">edu.mtec.njpedigo.myNewIonicApp</string>
+    <string name="custom_url_scheme">edu.mtec.njpedigo.myNewIonicApp</string>
+</resources>
